@@ -27,8 +27,8 @@ const chalk = require("chalk")
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
+global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadAll = fslse // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -51,8 +51,8 @@ global.location = "Indonesia, Jakarta, Jakarta Timur"
 global.botname = "LuxxyBot"
 global.websitex = "https://youtube.com/channel/UCiSGDemNP2HrpnA6eQo5ETg"
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "LuccyBot "
+global.author = "LuxxyXyz"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['6288210072756'] //ur owner tag
